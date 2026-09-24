@@ -1,0 +1,99 @@
+h1 {
+    font-family: "Noto Serif", serif;
+}
+.sidebar{
+    width: 19vw;
+    height: 100vh;
+    background-color:#14213D;
+    display: inline-block ;
+    vertical-align: top;
+    font-size:70%;
+}
+.main{
+    width: 80%;
+height: 100vh;
+background-color:white;
+display: inline-block;
+overflow: auto;
+scroll-behavior: smooth;
+}
+.name{
+    color:black;
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 900;
+  font-size: 100px;
+  text-align:left;
+  margin-bottom: 10px;
+}
+span{
+    color:navy;
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 900;
+  font-size: 100px;
+  text-align:left;
+  margin-bottom: 10px;
+}
+.city{
+    color:navy;
+    margin-top: 0;
+}
+.img {
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    margin-top:50%;
+    border: 10px solid white;
+    outline-offset: 10px;
+}
+.sidebar a:hover{
+color: rgb(49, 6, 240);
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+/*.edu h2 {
+    display: inline-block;
+    width: 80%;
+}
+
+.edu p {
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+}*/
+h2{
+    font-family: "League Spartan", sans-serif;
+    font-size:50px;
+    color: black;
+    margin-bottom: 10px;
+}
+.date-right {
+    float: right;
+    color: navy;
+    font-weight: bold;
+    font-size: 16px;
+}
+p{
+    font-family: "Alice", serif;
+}
+h4{
+    font-family:  "Open Sans", sans-serif;
+    color: navy;
+    display: inline-block;
+    
+}
+h5{
+    font-family: "Google Sans", sans-serif;
+    color: navy;
+}
+i{
+    font-size: 25px;
+}
+.check{
+    font-size: 12px;
+    color: navy;
+}
+.award {
+    color:gold;
+}
